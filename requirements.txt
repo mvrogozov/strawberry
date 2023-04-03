@@ -1,1 +1,1 @@
-git+https://github.com/usalko/graphql-core.git@fix-fields-order
+git+https://github.com/mvrogozov/graphql-core.git@fix-fields-order
